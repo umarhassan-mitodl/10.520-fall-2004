@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Molecular Engineering"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "legacy_uid": "c2e77ddd-04c9-9ed4-d602-705e0b01ecb2",
+  "instructors": {
+    "content": [
+      "b2da2629-907c-be88-a7af-eafcc3093721"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "17cc828d-f8e9-a598-6ec8-38e785ef61b8",
+    "website": "10-520-molecular-aspects-of-chemical-engineering-fall-2004"
+  },
+  "course_title": "Molecular Aspects of Chemical Engineering",
+  "course_description": "This class covers molecular-level engineering and analysis of chemical processes. The use of chemical bonding, reactivity, and other key concepts in the design and tailoring of organic systems are discussed in this class. Specific class topics include application and development of structure-property relationships, and descriptions of the chemical forces and structural factors that govern supramolecular and interfacial phenomena for molecular and polymeric systems.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "10.420",
+  "primary_course_number": "10.520",
+  "course_image_thumbnail": {
+    "content": "7c3e6d2b-6adc-12fd-ab6a-6d3ec1901bd2",
+    "website": "10-520-molecular-aspects-of-chemical-engineering-fall-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "d7d52425-790f-4a05-98d3-2684f998cea7",
+  "site_short_id": "10.520-fall-2004",
+  "site_url_path": "courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004",
+  "title": "Course Metadata"
+}
