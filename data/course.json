@@ -33,6 +33,7 @@
     "website": "10-520-molecular-aspects-of-chemical-engineering-fall-2004"
   },
   "course_title": "Molecular Aspects of Chemical Engineering",
+  "hide_download": true,
   "course_description": "This class covers molecular-level engineering and analysis of chemical processes. The use of chemical bonding, reactivity, and other key concepts in the design and tailoring of organic systems are discussed in this class. Specific class topics include application and development of structure-property relationships, and descriptions of the chemical forces and structural factors that govern supramolecular and interfacial phenomena for molecular and polymeric systems.\n",
   "department_numbers": [
     "10"
@@ -43,6 +44,7 @@
     "content": "7c3e6d2b-6adc-12fd-ab6a-6d3ec1901bd2",
     "website": "10-520-molecular-aspects-of-chemical-engineering-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],
